@@ -53,11 +53,7 @@ Then open the UI, enroll a controller (UniFi, Omada, etc.), sync devices, and tr
 - **Core:** AGPL-3.0 • **SDKs/examples:** Apache-2.0  
 - FreeSDN Foundation • Technical Steering Committee (TSC)
 
----
 
-<p align="center">
-  <img src="./assets/freesdn-avatar-dark.png" alt="FreeSDN avatar" width="120">
-</p>
 
 ---
 
